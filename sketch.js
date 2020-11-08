@@ -94,17 +94,17 @@ function draw() {
   fill("grey");
   block16.display();
   fill("skyblue");
-  blocks1.display();
-  blocks2.display();
-  blocks3.display();
-  blocks4.display();
-  blocks5.display();
+  block17.display();
+  block18.display();
+  block19.display();
+  block20.display();
+  block21.display();
   fill("turquoise");
-  blocks6.display();
-  blocks7.display();
-  blocks8.display();
+  block22.display();
+  block23.display();
+  block24.display();
   fill("pink")
-  blocks9.display();
+  block25.display();
   fill("gold");
   
   imageMode(CENTER)
